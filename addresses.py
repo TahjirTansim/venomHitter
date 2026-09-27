@@ -5,7 +5,7 @@ import random
 from dataclasses import dataclass
 from typing import Dict, List
 
-from .constants import (
+from constants import (
     EMAIL_DOMAINS, FIRST_NAMES, LAST_NAMES, SHIPPING_FALLBACK_ORDER,
 )
 

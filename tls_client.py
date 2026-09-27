@@ -5,7 +5,7 @@ import random
 
 from curl_cffi.requests import Session
 
-from .constants import BROWSER_PROFILES, USER_AGENTS
+from constants import BROWSER_PROFILES, USER_AGENTS
 
 
 class TLSClient:
